@@ -17,7 +17,7 @@ Ajoute des captures d'écran pour illustrer les fonctionnalités de ton applicat
 
 | Écran de sélection d'image | Suppression d'arrière-plan | Résultat final |
 |---------------------------|----------------------------|----------------|
-| <img src="./assets/capture1.png" alt="Plan de travail 1" width="50"> | ![Suppression](./mnt/data/Plan%20de%20travail%201%20copie%202.png) | ![Résultat final](./mnt/data/Plan%20de%20travail%201.png) |
+| <img src="./assets/capture1.png" alt="Plan de travail 1" width="500"> | <img src="./assets/capture2.png" alt="Plan de travail 1" width="500"> | <img src="./assets/capture3.png" alt="Plan de travail 1" width="500"> |
 
 ## Installation
 
