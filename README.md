@@ -2,7 +2,7 @@
 
 **AI Background Remover** est une application Flutter qui permet de supprimer facilement l'arrière-plan des images à l'aide de techniques d'intelligence artificielle. L'application propose une interface utilisateur intuitive avec des fonctionnalités avancées pour un traitement rapide et précis des images.
 
-![AI Background Remover](./mnt/data/Plan%20de%20travail%201%20copie.png)
+<img src="./assets/capture3.png" alt="Plan de travail 1" width="500">
 
 ## Fonctionnalités
 
