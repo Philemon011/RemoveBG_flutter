@@ -54,3 +54,28 @@ Suivez les étapes ci-dessous pour configurer et exécuter ce projet localement.
 ### Problèmes potentiels
 
 Si vous rencontrez des erreurs comme :
+
+ADB exited with exit code 1 android.os.ParcelableException: java.io.IOException: Requested internal only, but not enough space..
+Assurez-vous que l'appareil ou l'émulateur a suffisamment d'espace de stockage.
+
+
+## Technologies utilisées
+
+- **Flutter** : Framework mobile pour Android et iOS.
+- **Dart** : Langage de programmation utilisé par Flutter.
+- **remove.bg** : Pour la suppression d'arrière-plan.
+
+## Contribution
+
+Les contributions sont les bienvenues ! Si vous souhaitez apporter des améliorations ou ajouter des fonctionnalités, veuillez suivre les étapes suivantes :
+
+1. Fork le projet
+2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
+3. Commitez vos modifications (`git commit -m 'Add some AmazingFeature'`)
+4. Poussez à la branche (`git push origin feature/AmazingFeature`)
+5. Ouvrez une Pull Request
+
+
+## Auteurs
+
+- **[Etounde Philemon](https://github.com/Philemon011)** - Développeur principal
